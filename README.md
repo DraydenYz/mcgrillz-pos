@@ -33,8 +33,9 @@ No installation required. Works instantly in any modern browser.
 
 ## Tech Stack
 - **Java (Swing):** Core implementation for the desktop POS system, using object-oriented design and GUI components  
+- **IntelliJ IDEA:** Integrated Development Environment used for coding, debugging, and running the application  
 - **GitHub Pages (HTML/JavaScript):** Web deployment version for live demonstration and easy access in the browser  
-- **Image Assets:** Product images compressed and scaled for realistic display and faster performance
+- **Image Assets:** Product images compressed and optimized for realistic display and faster performance
 
 ## Developer
 ~ Raphael John T. Opeña ~ 
