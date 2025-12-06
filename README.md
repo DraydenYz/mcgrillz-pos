@@ -3,7 +3,7 @@
 STI College NAGA | IT-2A | Restaurant/Fast Food Chain
 
 ## Overview
-McGrilllz POS is a fast food point-of-sale system built as a solo submission for "Object Oriented Programming - (10 Task Performance 1 - ARG)". It provides a functional interface for selecting items, managing orders, and processing transactions. The system is organized into categories such as Meals, Pizza, and Drinks, and includes cart management and basic payment handling. It runs directly in the browser and is deployed via GitHub Pages.
+McGrilllz POS is a fast food point-of-sale system built as a solo submission for "Object Oriented Programming - (10 Task Performance 1 - ARG)". It provides a functional interface for selecting items, managing orders, and processing transactions. The system i made is organized into categories such as Meals, Pizza, and Drinks, and includes cart management and basic payment handling. It runs directly in the browser and is deployed via GitHub Pages for easier access.
 
 ## Live Demo  
 🔗 [https://draydenyz.github.io/mcgrillz-pos/](https://draydenyz.github.io/mcgrillz-pos/)  
@@ -14,7 +14,7 @@ No installation required. Works instantly in any modern browser.
 - Quantity selector and “Add” button for each item  
 - Cart system with item list and removal option  
 - Subtotal, Paid, Total, and Change calculation  
-- Responsive layout for desktop and mobile  
+- Responsive layout for desktop (Not Optimized) and for mobile, which is more stable.
 - Public deployment via GitHub Pages  
 
 ## Screenshots
