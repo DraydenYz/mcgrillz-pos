@@ -20,15 +20,15 @@ No installation required. Works instantly in any modern browser.
 ## Screenshots
 
 ### Meals Panel  
-![Meals UI]
+
 <img width="2107" height="876" alt="image" src="https://github.com/user-attachments/assets/f0586b55-be9c-41bf-ac4d-5deff63d78cd" />
 
 ### Pizza Panel  
-![Pizza UI]
+
 <img width="2105" height="882" alt="image" src="https://github.com/user-attachments/assets/05825fd2-2f30-4fe5-80e3-985ef32ff1fd" />
 
 ### Drinks Panel  
-![Drinks UI]
+
 <img width="491" height="913" alt="image" src="https://github.com/user-attachments/assets/e43c759e-65ff-4dc4-879c-087dd3e0e2f2" />
 
 ## Tech Stack
