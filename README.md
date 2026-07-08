@@ -14,7 +14,7 @@ No installation required. Works instantly in any modern browser.
 - Quantity selector and “Add” button for each item  
 - Cart system with item list and removal option  
 - Subtotal, Paid, Total, and Change calculation  
-- Responsive layout for desktop (Not Optimized) and for mobile, which is more stable.
+- Responsive layout for desktop which is more stable (Not Optimized) for mobile.
 - Public deployment via GitHub Pages  
 
 ## Screenshots
